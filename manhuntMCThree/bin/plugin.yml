@@ -1,0 +1,13 @@
+name: manhuntMCThree
+version: 1.0
+api-version: 1.16
+author: Atin
+main: me.atin.manhthree.Sixth
+commands:
+  target3:
+    description: It's used to turn on the manhunt.
+  stoptarget3:
+    description: It's used to stop/turn off the manhunt.
+  helpmh3:
+    aliases: [helpmanhunt3]
+    description: For help in understanding how the plugin works.
